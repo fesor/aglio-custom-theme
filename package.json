@@ -1,7 +1,7 @@
 {
-  "name": "aglio-theme-olio",
-  "version": "1.6.3",
-  "description": "Default theme for the Aglio API Blueprint renderer",
+  "name": "aglio-theme-intellectsoft",
+  "version": "1.6.4",
+  "description": "Customized aglio default theme to meet our requirements",
   "main": "lib/main.js",
   "scripts": {
     "build": "coffeelint src/*.coffee && coffee -o lib -c src",
